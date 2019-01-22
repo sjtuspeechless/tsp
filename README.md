@@ -1,2 +1,2 @@
 # tsp
-the summer project assigned by Xiangzhi wei
+the simple summer project assigned by Xiangzhi wei
